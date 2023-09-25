@@ -1,1 +1,2 @@
 # Superstore_Powerbi_Dashboard
+This repository contains the code and resources for the 'Super Store Sales Dashboard' project. The objective of this project is to leverage data analysis techniques, particularly time series analysis, to provide valuable insights and precise sales forecasting for a business. The project encompasses data gathering, data transformation, DAX query writing, and the creation of an intuitive and visually appealing sales dashboard.
